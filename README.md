@@ -4,7 +4,7 @@
 JavaScript - JS Deepdive  
 React - JS 완벽 가이드  
 알고리즘 - JS 알고리즘 & 자료구조 / 프로그래머스 / 백준  
-CS - CS50 / CS 스터디  
+CS - CS 스터디  
 
 ## 🛠️ Tech Stacks 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
