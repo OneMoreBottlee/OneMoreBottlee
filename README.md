@@ -1,6 +1,8 @@
-# Han Byung Ju 🕵️‍ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOneMoreBottlee&count_bg=%23FFBDBD&title_bg=%23FF8383&icon=awesomelists.svg&icon_color=%23000000&title=Hello+%21&edge_flat=false)](https://hits.seeyoufarm.com)
+# Han Byoung Ju 🕵️‍ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOneMoreBottlee&count_bg=%23FFBDBD&title_bg=%23FF8383&icon=awesomelists.svg&icon_color=%23000000&title=Hello+%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-📚 I’m currently learning  
+---
+
+## 📚 I’m currently learning  
 JavaScript - JS Deepdive  
 React - JS 완벽 가이드  
 알고리즘 - JS 알고리즘 & 자료구조 / 프로그래머스 / 백준  
