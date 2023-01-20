@@ -16,12 +16,11 @@ CS - CS 스터디
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 
-
-## 📬 About Marketing 
 ### 📊 Analytics
 ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=for-the-badge&logo=GoogleAds&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=for-the-badge&logo=GoogleTagManager&logoColor=white)
+
 ### 🎪 Ads
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)
