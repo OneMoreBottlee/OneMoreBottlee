@@ -1,53 +1,48 @@
-# Han Byoung Ju 🕵️‍ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOneMoreBottlee&count_bg=%23FFBDBD&title_bg=%23FF8383&icon=awesomelists.svg&icon_color=%23000000&title=Hello+%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
----
+<div align="center">
 
-## 📚 I’m currently learning  
-JavaScript - JS Deepdive  
-React - JS 완벽 가이드  
-알고리즘 - JS 알고리즘 & 자료구조 / 프로그래머스 / 백준  
-CS - CS 스터디  
+  ## 🕵️‍ I`m... 
+  
+  💻 데이터 시각화에 관심이 많은,  
+  📈 성장을 위해 매일 고민하고 학습하는,  
+  🚀 목표 달성을 위한 새로움과 도전을 즐기는,  
+  
+  **👨‍💻 개발자 한병주 입니다**
+  
+  **More About me**  
+  ![Notion](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+<br/>
 
-## 🛠️ Tech Stacks 🛠️
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+  ## 🛠️ Stacks 🛠️
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+  ![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white)
+  ![ReactRouter](https://img.shields.io/badge/ReactRouter-CA4245.svg?&style=for-the-badge&logo=ReactRouter&logoColor=white)
+  ![ReactHookForm](https://img.shields.io/badge/ReactHookForm-EC5990.svg?&style=for-the-badge&logo=ReactHookForm&logoColor=white)
+  
+  ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+  ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?&style=for-the-badge&logo=Gatsby&logoColor=white)
+  ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-### 📊 Analytics
-![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=for-the-badge&logo=GoogleAds&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=for-the-badge&logo=GoogleTagManager&logoColor=white)
+  #### 📊 Analytics
+  ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
+  ![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=for-the-badge&logo=GoogleAds&logoColor=white)
+  ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=for-the-badge&logo=GoogleTagManager&logoColor=white)
 
-### 🎪 Ads
-![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)
-![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?&style=for-the-badge&logo=Kakao&logoColor=white)
-![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
+  #### 🎪 Ads
+  ![Meta](https://img.shields.io/badge/Meta-0467DF.svg?&style=for-the-badge&logo=Meta&logoColor=white)
+  ![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?&style=for-the-badge&logo=Kakao&logoColor=white)
+  ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
 
+<br/>
 
-## ➕ ETC
+  ## ➕ ETC
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneMoreBottlee&theme=dracula&show_icons=true)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=OneMoreBottlee)](https://www.acmicpc.net/user/onemorebottlee)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=OneMoreBottlee)](https://www.acmicpc.net/user/onemorebottlee)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneMoreBottlee&theme=dracula&show_icons=true)  
 
-## More About Me
-
-![Notion](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
-
-<!--
-**OneMoreBottlee/OneMoreBottlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
