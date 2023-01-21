@@ -10,8 +10,10 @@
   **👨‍💻 개발자 한병주 입니다**
   
   **More About me**  
-  ![Notion](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
-<br/>
+  <a href="https://www.notion.so/Onemorebottlee-ef6ec50fc95a41aab2ffe0f6e05a52d9">
+    ![Notion](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+  </a>
+  <br/>
 
   ## 🛠️ Stacks 🛠️
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
