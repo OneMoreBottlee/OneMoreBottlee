@@ -9,13 +9,14 @@
   
   **👨‍💻 개발자 한병주 입니다**
   
-  **More About me**  
+  **More About Me**  
   <a href="https://www.notion.so/Onemorebottlee-ef6ec50fc95a41aab2ffe0f6e05a52d9">
-    ![Notion](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+    ![Blog](https://img.shields.io/badge/Blog-white.svg?&style=for-the-badge&logo=Notion&logoColor=black)
   </a>
-  <br/>
+
 
   ## 🛠️ Stacks 🛠️
+  ### 💻 Tech
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -29,16 +30,11 @@
   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
   ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?&style=for-the-badge&logo=Gatsby&logoColor=white)
   ![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
+  
+  ### 🎪 Ads ![Meta](https://img.shields.io/badge/Meta-0467DF.svg?&style=flat&logo=Meta&logoColor=white) ![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?&style=flat&logo=Kakao&logoColor=white) ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white) ![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=flat&logo=GoogleAds&logoColor=white)
+  ### 📊 Analytics ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=flat&logo=GoogleAnalytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=flat&logo=GoogleTagManager&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=Firebase&logoColor=white)
+  
 
-  #### 📊 Analytics
-  ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=for-the-badge&logo=GoogleAnalytics&logoColor=white)
-  ![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=for-the-badge&logo=GoogleAds&logoColor=white)
-  ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=for-the-badge&logo=GoogleTagManager&logoColor=white)
-
-  #### 🎪 Ads
-  ![Meta](https://img.shields.io/badge/Meta-0467DF.svg?&style=for-the-badge&logo=Meta&logoColor=white)
-  ![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?&style=for-the-badge&logo=Kakao&logoColor=white)
-  ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
 
 <br/>
 
