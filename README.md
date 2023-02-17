@@ -22,7 +22,6 @@
   [Blog](https://www.notion.so/Onemorebottlee-ef6ec50fc95a41aab2ffe0f6e05a52d9) | 
   [Dev-Blog](https://onemorebottlee.github.io/) | 
   [Resume](https://www.notion.so/onemorebottlee/Frontend-Developer-debc3791e7564de8b7eecee24391915c) | 
-  [Portfolio](https://docs.google.com/presentation/d/1nbKTycuCQH5_EUdRWA9u3RSqJ-NQfRe_GXYbTs5BZWI/edit?usp=sharing)
 
 <br/>
 
