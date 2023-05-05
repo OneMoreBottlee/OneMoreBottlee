@@ -30,5 +30,4 @@
   ![Meta](https://img.shields.io/badge/Meta-0467DF.svg?&style=flat&logo=Meta&logoColor=white) ![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?&style=flat&logo=Kakao&logoColor=white) ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white) ![Google Ads](https://img.shields.io/badge/GoogleAds-4285F4.svg?&style=flat&logo=GoogleAds&logoColor=white)  
   ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400.svg?&style=flat&logo=GoogleAnalytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/GoogleTagManager-246FDB.svg?&style=flat&logo=GoogleTagManager&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=Firebase&logoColor=white)
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=OneMoreBottlee)](https://www.acmicpc.net/user/onemorebottlee)  
   </div>
